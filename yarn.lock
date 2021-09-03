@@ -684,9 +684,9 @@ anymatch@~3.1.1:
     picomatch "^2.0.4"
 
 arb-ethers-web3-bridge@^0.7.3:
-  version "0.7.2"
-  resolved "https://registry.npm.taobao.org/arb-ethers-web3-bridge/download/arb-ethers-web3-bridge-0.7.2.tgz#957d300244066465f21057dfbc94ca96a336118f"
-  integrity sha1-lX0wAkQGZGXyEFffvJTKlqM2EY8=
+  version "0.7.3"
+  resolved "https://registry.yarnpkg.com/arb-ethers-web3-bridge/-/arb-ethers-web3-bridge-0.7.3.tgz#a80cfeb8c61e46e2ae997e3dbba164e134104d63"
+  integrity sha512-dmnys5OU2RyLrVckNzC+NPR/BZDr38svO45vEaZ1oz2cEacKiVaU1g1bgjvJBQbM0jHaXVk7r7JL1U7xVcaA3A==
   dependencies:
     ethers-providers "^2.1.19"
     ethers-utils "^2.1.11"
@@ -853,10 +853,10 @@ aws4@^1.8.0:
   resolved "https://registry.npm.taobao.org/aws4/download/aws4-1.11.0.tgz?cache=0&sync_timestamp=1604101340021&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Faws4%2Fdownload%2Faws4-1.11.0.tgz#d61f46d83b2519250e2784daf5b09479a8b41c59"
   integrity sha1-1h9G2DslGSUOJ4Ta9bCUeai0HFk=
 
-axios@^0.20.0:
-  version "0.20.0"
-  resolved "https://registry.npm.taobao.org/axios/download/axios-0.20.0.tgz?cache=0&sync_timestamp=1608609188013&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Faxios%2Fdownload%2Faxios-0.20.0.tgz#057ba30f04884694993a8cd07fa394cff11c50bd"
-  integrity sha1-BXujDwSIRpSZOozQf6OUz/EcUL0=
+axios@^0.21.1:
+  version "0.21.1"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.21.1.tgz#22563481962f4d6bde9a76d516ef0e5d3c09b2b8"
+  integrity sha512-dKQiRHxGD9PPRIUNIWvZhPTPpl1rf/OxTYKsqKUDjBwYylTvV7SjSHJb9ratfyzM6wCdLCOYLzs73qpg5c4iGA==
   dependencies:
     follow-redirects "^1.10.0"
 
