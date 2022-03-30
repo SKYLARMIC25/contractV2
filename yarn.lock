@@ -684,9 +684,9 @@ anymatch@~3.1.1:
     picomatch "^2.0.4"
 
 arb-ethers-web3-bridge@^0.7.3:
-  version "0.7.2"
-  resolved "https://registry.npm.taobao.org/arb-ethers-web3-bridge/download/arb-ethers-web3-bridge-0.7.2.tgz#957d300244066465f21057dfbc94ca96a336118f"
-  integrity sha1-lX0wAkQGZGXyEFffvJTKlqM2EY8=
+  version "0.7.3"
+  resolved "https://registry.yarnpkg.com/arb-ethers-web3-bridge/-/arb-ethers-web3-bridge-0.7.3.tgz#a80cfeb8c61e46e2ae997e3dbba164e134104d63"
+  integrity sha512-dmnys5OU2RyLrVckNzC+NPR/BZDr38svO45vEaZ1oz2cEacKiVaU1g1bgjvJBQbM0jHaXVk7r7JL1U7xVcaA3A==
   dependencies:
     ethers-providers "^2.1.19"
     ethers-utils "^2.1.11"
@@ -4457,9 +4457,9 @@ minimalistic-crypto-utils@^1.0.0, minimalistic-crypto-utils@^1.0.1:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.npm.taobao.org/minimist/download/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha1-Z9ZgFLZqaoqqDAg8X9WN9OTpdgI=
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 minipass@^2.6.0, minipass@^2.8.6, minipass@^2.9.0:
   version "2.9.0"
