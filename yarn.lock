@@ -684,9 +684,9 @@ anymatch@~3.1.1:
     picomatch "^2.0.4"
 
 arb-ethers-web3-bridge@^0.7.3:
-  version "0.7.2"
-  resolved "https://registry.npm.taobao.org/arb-ethers-web3-bridge/download/arb-ethers-web3-bridge-0.7.2.tgz#957d300244066465f21057dfbc94ca96a336118f"
-  integrity sha1-lX0wAkQGZGXyEFffvJTKlqM2EY8=
+  version "0.7.3"
+  resolved "https://registry.yarnpkg.com/arb-ethers-web3-bridge/-/arb-ethers-web3-bridge-0.7.3.tgz#a80cfeb8c61e46e2ae997e3dbba164e134104d63"
+  integrity sha512-dmnys5OU2RyLrVckNzC+NPR/BZDr38svO45vEaZ1oz2cEacKiVaU1g1bgjvJBQbM0jHaXVk7r7JL1U7xVcaA3A==
   dependencies:
     ethers-providers "^2.1.19"
     ethers-utils "^2.1.11"
@@ -1802,9 +1802,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.2.0, decompress-response@^3.3.0:
   version "3.3.0"
